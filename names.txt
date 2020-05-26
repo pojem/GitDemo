@@ -2,8 +2,7 @@ marko
 jure
 toni
 joze
-miha
-matej
+
 
 1
 2
