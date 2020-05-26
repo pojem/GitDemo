@@ -7,6 +7,11 @@ print("GitDemo1")
 print("GitDemo2")
 print("GitDemo3")
 
+#########################
+
+print("GitX1")
+print("GitX2")
+print("GitX3")
 
 print(str[1])  # "a" is output
 
