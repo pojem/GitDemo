@@ -2,6 +2,12 @@ str = "RahulShettyAcademy.com"
 str1 ="testlab.si"
 str2 ="RahulShetty"
 
+
+print("GitDemo1")
+print("GitDemo2")
+print("GitDemo3")
+
+
 print(str[1])  # "a" is output
 
 print(str[0:4]) # if you want to get substring
