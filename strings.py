@@ -30,4 +30,7 @@ print(str3.strip())
 print(str3.lstrip()) # right strip
 print(str3.rstrip()) # left strip
 
+
 print("branch training develop")
+print("branch American training develop")
+print("branch American training develop")
